@@ -158,23 +158,23 @@ Puedes usar el archivo `memory-datasource.http` para probar la funcionalidad con
 
 La primera imagen muestra un listado de defensas de trabajos de titulación.
 
-![I1](./public/assets/images/I1.jpg)
+![I1](./clean/public/assets/images/I1.jpg)
 
 La segunda imagen es el detalle que presenta una defensa así como el enlace con los estudiantes que participarán en la misma.
 
-![I2](./public/assets/images/I2.jpg)
+![I2](./clean/public/assets/images/I2.jpg)
 
 En la tercera imagen visualizamos los detalles que se consideran por cada uno de quienes sustentarán.
 
-![I3](./public/assets/images/I3.jpg)
+![I3](./clean/public/assets/images/I3.jpg)
 
 En la cuarta imagen se muestra el mecanismo de asignación para estas defensas. (revisar las 2 últimas imágenes)
 
-![I4](./public/assets/images/I4.jpg)
+![I4](./clean/public/assets/images/I4.jpg)
 
 En la quinta y sexta imagen podemos ver la configuración de las aulas y horarios disponibles para las defensas.
 
-![I5](./public/assets/images/I5.jpg)
-![I6](./public/assets/images/I5.jpg)
+![I5](./clean/public/assets/images/I5.jpg)
+![I6](./clean/public/assets/images/I5.jpg)
 
 Considerar todas las relaciones no explicitas que muestren las imágenes pero que consoliden su diseño.
